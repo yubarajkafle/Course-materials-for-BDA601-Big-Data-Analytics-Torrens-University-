@@ -2,9 +2,11 @@
 
 ### Tutorial
 https://www.tutorialspoint.com/mongodb/mongodb_environment.htm
+
 https://www.geeksforgeeks.org/mongodb/connecting-mongodb-to-jupyter-notebook/
 
 https://www.youtube.com/watch?v=4crXgQZG4W8
+
 https://www.youtube.com/watch?v=EY9cxTXGnec&list=PLw-9a9yL-pt0h4bwQYEDBJyp96CHMkSGp&index=1
 
 ### Download Link
