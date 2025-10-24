@@ -1,0 +1,1001 @@
+Age,Gender,StudyHours,Participation,Major,TypeOfSchool,Region,Grade
+23,Male,10,6,Literature,Public,West,Fail
+18,Female,16,8,Biology,Private,North,Pass
+21,Female,20,6,Business,Public,South,Fail
+24,Female,5,3,Biology,Public,North,Fail
+27,Female,9,10,Literature,Online,West,Pass
+22,Female,10,8,Business,Private,West,Fail
+30,Female,8,1,Literature,Public,Central,Fail
+22,Male,16,8,Business,Online,South,Pass
+30,Female,10,7,Literature,Private,Central,Pass
+20,Male,8,7,Literature,Online,East,Pass
+29,Female,17,10,Business,Online,Central,Pass
+23,Male,18,7,Business,Public,North,Pass
+26,Male,15,1,Business,Public,Central,Fail
+21,Male,11,6,Business,Public,Central,Pass
+26,Male,24,3,Physics,Private,North,Pass
+18,Female,20,10,Biology,Private,West,Pass
+26,Female,10,7,Biology,Online,North,Fail
+18,Male,6,8,Physics,Public,Central,Pass
+23,Female,9,2,Business,Online,East,Fail
+20,Female,20,1,Literature,Public,North,Fail
+22,Male,6,8,Biology,Private,West,Fail
+25,Male,17,10,Physics,Public,North,Pass
+25,Male,19,1,Computer Science,Online,North,Fail
+29,Male,11,3,Biology,Online,West,Fail
+29,Female,7,9,Business,Online,East,Fail
+27,Female,19,10,Physics,Private,North,Pass
+27,Male,10,10,Computer Science,Private,East,Pass
+26,Female,7,1,Business,Online,North,Fail
+23,Female,10,10,Business,Private,East,Pass
+23,Male,21,9,Computer Science,Private,East,Pass
+22,Female,13,8,Literature,Private,Central,Pass
+26,Male,7,4,Computer Science,Online,North,Fail
+18,Male,9,1,Physics,Public,East,Fail
+19,Female,5,8,Business,Online,Central,Fail
+25,Female,22,3,Physics,Online,South,Pass
+21,Male,8,2,Biology,Public,Central,Fail
+26,Female,22,2,Physics,Private,East,Pass
+20,Male,19,8,Biology,Private,South,Pass
+24,Male,16,7,Literature,Online,Central,Pass
+24,Male,7,8,Biology,Online,North,Fail
+21,Female,22,2,Computer Science,Online,East,Fail
+26,Male,8,3,Biology,Private,West,Fail
+24,Female,11,4,Literature,Public,East,Fail
+28,Female,17,5,Business,Online,South,Pass
+29,Female,15,4,Computer Science,Online,South,Fail
+26,Male,14,9,Biology,Public,South,Pass
+20,Female,19,1,Physics,Public,North,Fail
+25,Male,19,8,Biology,Private,South,Pass
+18,Female,11,5,Literature,Private,West,Fail
+21,Female,23,8,Literature,Private,West,Pass
+28,Female,17,2,Biology,Public,West,Fail
+21,Female,24,3,Business,Private,West,Pass
+19,Female,24,9,Business,Online,Central,Pass
+24,Male,25,3,Physics,Private,North,Pass
+30,Female,16,8,Physics,Public,North,Pass
+25,Male,11,3,Computer Science,Online,Central,Fail
+29,Male,10,7,Physics,Private,North,Fail
+23,Female,18,9,Business,Private,South,Pass
+23,Female,6,8,Literature,Private,East,Pass
+19,Female,13,8,Business,Online,South,Pass
+27,Male,21,9,Computer Science,Private,North,Pass
+27,Male,24,1,Business,Online,Central,Fail
+23,Male,22,7,Business,Public,West,Pass
+25,Female,19,1,Business,Private,East,Fail
+19,Female,8,2,Physics,Private,Central,Fail
+23,Female,18,3,Biology,Public,South,Fail
+21,Male,25,5,Business,Public,East,Pass
+27,Female,8,5,Biology,Public,East,Fail
+23,Female,12,8,Biology,Public,Central,Pass
+20,Male,10,9,Computer Science,Private,East,Pass
+25,Female,22,9,Physics,Online,South,Pass
+20,Male,6,2,Physics,Private,North,Fail
+23,Male,25,5,Biology,Online,Central,Pass
+25,Male,14,3,Literature,Online,North,Fail
+26,Female,12,3,Physics,Public,South,Fail
+20,Female,19,2,Biology,Online,West,Pass
+22,Male,17,5,Computer Science,Public,North,Fail
+28,Male,16,2,Business,Private,South,Pass
+20,Male,7,7,Physics,Online,East,Pass
+19,Female,11,9,Biology,Online,Central,Pass
+24,Female,14,9,Business,Online,East,Pass
+29,Female,5,2,Business,Public,Central,Fail
+21,Male,23,8,Literature,Online,East,Pass
+28,Male,19,2,Literature,Public,East,Fail
+21,Male,9,5,Biology,Public,West,Fail
+20,Male,15,5,Computer Science,Private,North,Pass
+30,Male,15,9,Business,Private,South,Pass
+29,Female,15,7,Biology,Private,West,Pass
+21,Male,15,9,Biology,Private,South,Pass
+25,Female,25,6,Computer Science,Online,North,Pass
+28,Female,13,7,Business,Online,Central,Pass
+18,Female,5,3,Physics,Online,North,Fail
+18,Male,5,8,Literature,Public,East,Pass
+19,Female,16,2,Biology,Public,South,Fail
+19,Male,17,5,Computer Science,Online,Central,Fail
+30,Female,11,9,Computer Science,Public,West,Pass
+23,Female,11,6,Computer Science,Public,South,Pass
+20,Female,24,3,Computer Science,Private,South,Fail
+22,Female,6,2,Business,Public,East,Fail
+24,Male,14,10,Physics,Online,West,Pass
+19,Male,7,1,Literature,Public,East,Fail
+18,Male,22,8,Physics,Public,South,Pass
+23,Male,22,1,Computer Science,Private,North,Pass
+24,Male,20,5,Computer Science,Online,South,Fail
+21,Male,9,10,Computer Science,Public,West,Pass
+20,Male,8,8,Computer Science,Private,West,Fail
+19,Male,15,8,Biology,Public,East,Pass
+28,Male,16,5,Computer Science,Private,South,Pass
+24,Male,20,5,Computer Science,Public,South,Fail
+24,Male,6,8,Business,Private,Central,Pass
+30,Male,21,3,Literature,Private,North,Pass
+27,Female,9,1,Physics,Private,North,Fail
+21,Male,5,10,Business,Online,West,Fail
+28,Female,17,1,Physics,Online,East,Fail
+20,Female,9,6,Biology,Private,North,Fail
+21,Male,12,5,Biology,Online,Central,Fail
+26,Male,19,3,Computer Science,Public,West,Pass
+18,Male,20,5,Business,Public,Central,Fail
+30,Male,23,5,Business,Public,South,Pass
+23,Female,22,2,Computer Science,Public,West,Fail
+18,Male,16,6,Computer Science,Private,West,Pass
+18,Male,12,5,Biology,Online,South,Fail
+29,Male,10,2,Business,Online,Central,Fail
+18,Female,7,3,Physics,Private,West,Fail
+26,Female,7,4,Literature,Public,East,Fail
+27,Male,14,7,Computer Science,Private,Central,Pass
+23,Female,22,2,Biology,Public,East,Pass
+19,Female,24,3,Business,Private,West,Pass
+21,Female,24,7,Computer Science,Online,Central,Pass
+24,Female,14,8,Business,Public,West,Fail
+26,Female,8,8,Biology,Online,Central,Fail
+21,Male,20,9,Business,Online,North,Pass
+18,Female,5,8,Business,Online,Central,Fail
+24,Male,19,6,Physics,Private,East,Pass
+29,Female,22,10,Biology,Private,Central,Pass
+27,Male,19,6,Literature,Online,South,Pass
+22,Male,12,1,Physics,Public,East,Fail
+24,Female,6,6,Biology,Online,South,Pass
+25,Female,7,1,Physics,Public,North,Fail
+27,Male,16,4,Physics,Private,South,Fail
+25,Male,24,10,Business,Public,Central,Pass
+24,Male,8,2,Biology,Online,North,Fail
+18,Female,7,8,Computer Science,Private,Central,Pass
+26,Female,7,3,Business,Online,North,Fail
+26,Female,22,4,Literature,Online,West,Fail
+26,Female,25,5,Business,Public,South,Pass
+28,Male,10,10,Biology,Private,East,Pass
+28,Male,10,2,Business,Public,Central,Fail
+26,Male,13,8,Physics,Online,East,Fail
+29,Female,11,8,Computer Science,Online,Central,Fail
+27,Female,23,8,Biology,Private,North,Pass
+22,Male,21,3,Literature,Online,North,Fail
+29,Female,14,5,Biology,Private,East,Pass
+27,Male,20,4,Computer Science,Private,West,Pass
+30,Female,16,4,Business,Private,East,Fail
+24,Female,12,6,Physics,Public,South,Pass
+18,Female,18,10,Biology,Online,Central,Pass
+21,Male,13,9,Computer Science,Private,South,Pass
+19,Female,17,1,Computer Science,Online,North,Pass
+29,Female,9,7,Biology,Public,Central,Pass
+29,Female,7,9,Computer Science,Private,South,Pass
+19,Female,13,6,Business,Online,North,Pass
+23,Male,16,7,Computer Science,Public,Central,Pass
+29,Female,20,8,Computer Science,Public,East,Pass
+29,Male,7,9,Business,Online,West,Fail
+20,Male,16,10,Computer Science,Private,East,Pass
+29,Female,13,10,Business,Public,North,Pass
+21,Male,11,9,Computer Science,Private,South,Pass
+21,Female,16,9,Physics,Private,North,Pass
+19,Female,12,10,Business,Online,East,Pass
+21,Female,6,9,Physics,Private,South,Pass
+28,Female,11,1,Literature,Public,West,Pass
+30,Male,13,10,Biology,Public,East,Pass
+29,Male,12,7,Business,Online,East,Pass
+25,Female,15,10,Biology,Online,North,Pass
+25,Female,18,6,Business,Online,North,Pass
+23,Male,23,7,Biology,Online,East,Pass
+20,Female,14,2,Literature,Private,South,Pass
+20,Female,16,3,Computer Science,Private,North,Pass
+19,Male,24,7,Business,Public,North,Pass
+23,Male,9,10,Literature,Public,South,Pass
+25,Male,11,9,Business,Online,South,Fail
+26,Male,22,2,Physics,Online,West,Fail
+21,Male,11,2,Biology,Online,West,Fail
+30,Female,11,5,Literature,Private,South,Fail
+21,Male,7,9,Physics,Online,North,Fail
+20,Female,9,10,Biology,Private,Central,Pass
+21,Female,15,7,Literature,Public,East,Pass
+23,Female,25,3,Physics,Private,South,Pass
+20,Male,22,2,Literature,Online,East,Pass
+20,Female,15,7,Business,Private,North,Pass
+30,Female,17,7,Biology,Online,Central,Pass
+30,Male,17,5,Physics,Public,East,Fail
+20,Female,13,6,Physics,Public,East,Fail
+24,Female,20,4,Biology,Private,North,Fail
+26,Female,23,9,Physics,Public,South,Pass
+26,Female,5,4,Biology,Public,North,Fail
+23,Male,21,10,Business,Online,North,Pass
+21,Female,5,2,Biology,Private,West,Fail
+20,Female,16,1,Business,Online,Central,Pass
+28,Male,16,3,Physics,Private,South,Pass
+29,Male,13,1,Literature,Private,Central,Pass
+22,Female,22,10,Business,Public,West,Pass
+23,Male,5,10,Biology,Public,North,Fail
+29,Female,5,5,Physics,Public,West,Fail
+18,Female,17,10,Business,Public,Central,Pass
+20,Female,14,3,Literature,Online,West,Pass
+20,Female,10,4,Biology,Online,West,Fail
+22,Male,5,10,Biology,Private,South,Pass
+18,Female,16,2,Biology,Online,East,Pass
+24,Male,6,7,Literature,Online,South,Fail
+30,Male,21,6,Physics,Online,East,Pass
+18,Male,7,8,Computer Science,Private,West,Pass
+20,Female,15,3,Biology,Online,Central,Pass
+22,Male,11,3,Biology,Public,North,Pass
+22,Female,8,10,Literature,Online,East,Pass
+28,Female,18,9,Computer Science,Public,West,Pass
+25,Male,7,3,Physics,Public,South,Fail
+22,Female,11,9,Business,Public,South,Pass
+18,Male,7,4,Biology,Public,West,Fail
+30,Male,21,2,Computer Science,Public,Central,Pass
+28,Female,5,6,Physics,Public,Central,Pass
+21,Female,13,5,Computer Science,Public,West,Fail
+19,Male,12,8,Computer Science,Online,East,Pass
+29,Male,11,6,Business,Online,South,Fail
+21,Female,5,10,Physics,Online,West,Fail
+30,Female,10,9,Biology,Private,East,Fail
+26,Male,12,2,Business,Public,West,Pass
+25,Male,9,2,Biology,Private,South,Fail
+27,Female,9,6,Business,Private,South,Fail
+26,Male,13,8,Literature,Public,Central,Pass
+24,Female,23,6,Computer Science,Private,North,Pass
+19,Female,14,6,Computer Science,Private,Central,Pass
+19,Female,13,1,Literature,Public,Central,Pass
+23,Female,6,3,Business,Private,East,Fail
+20,Female,21,2,Business,Public,West,Fail
+19,Male,16,3,Computer Science,Private,East,Fail
+18,Male,15,8,Computer Science,Online,Central,Pass
+21,Female,15,4,Computer Science,Public,Central,Fail
+28,Male,19,1,Biology,Private,West,Pass
+30,Male,14,5,Biology,Private,North,Pass
+22,Female,18,6,Business,Online,North,Fail
+19,Male,18,5,Business,Online,North,Fail
+18,Female,22,2,Physics,Private,South,Pass
+22,Male,12,2,Computer Science,Online,North,Fail
+27,Female,24,8,Biology,Public,Central,Pass
+20,Male,6,1,Business,Online,East,Fail
+18,Male,20,3,Business,Private,North,Pass
+30,Female,15,6,Literature,Private,East,Pass
+23,Female,16,4,Literature,Online,West,Fail
+27,Female,22,7,Physics,Online,North,Pass
+19,Male,22,3,Business,Public,Central,Pass
+24,Female,22,1,Business,Online,North,Pass
+27,Male,14,5,Computer Science,Private,West,Pass
+19,Male,19,3,Physics,Private,Central,Pass
+28,Female,8,2,Biology,Private,East,Fail
+24,Male,17,2,Biology,Public,South,Fail
+20,Female,12,1,Business,Online,West,Fail
+18,Female,5,5,Business,Public,West,Pass
+25,Female,5,8,Computer Science,Online,South,Fail
+22,Female,8,8,Business,Private,West,Pass
+29,Female,23,7,Literature,Public,South,Pass
+22,Female,8,5,Physics,Online,West,Fail
+28,Female,10,6,Biology,Private,West,Fail
+24,Male,14,7,Physics,Public,North,Pass
+23,Female,7,9,Biology,Private,West,Pass
+28,Female,7,3,Computer Science,Private,West,Pass
+23,Female,8,7,Physics,Online,South,Pass
+27,Male,22,6,Business,Online,West,Fail
+26,Male,17,1,Computer Science,Private,North,Pass
+25,Female,9,4,Literature,Private,North,Fail
+23,Male,24,2,Literature,Online,South,Fail
+21,Male,10,5,Business,Private,East,Pass
+18,Male,19,10,Physics,Online,South,Fail
+19,Male,17,9,Business,Private,South,Pass
+30,Female,25,3,Literature,Private,South,Pass
+24,Male,19,8,Literature,Online,West,Pass
+24,Female,7,1,Computer Science,Private,North,Fail
+24,Male,8,8,Biology,Private,South,Pass
+23,Male,22,7,Biology,Private,East,Pass
+29,Male,24,10,Biology,Online,West,Pass
+29,Male,11,9,Physics,Online,South,Fail
+21,Male,5,8,Physics,Online,South,Fail
+20,Female,15,1,Biology,Online,East,Fail
+23,Male,11,1,Physics,Public,West,Fail
+19,Female,18,7,Business,Public,East,Pass
+30,Male,25,1,Physics,Private,Central,Pass
+19,Male,19,1,Literature,Public,North,Fail
+18,Female,18,7,Literature,Online,North,Pass
+20,Male,25,10,Literature,Public,East,Pass
+23,Male,17,8,Physics,Public,Central,Pass
+25,Male,20,3,Biology,Online,South,Fail
+29,Female,22,3,Business,Online,East,Fail
+27,Female,14,2,Biology,Public,South,Fail
+22,Male,10,3,Computer Science,Online,Central,Fail
+30,Female,18,5,Computer Science,Online,East,Fail
+25,Female,13,5,Physics,Private,Central,Pass
+28,Male,10,10,Literature,Online,North,Fail
+21,Female,6,3,Biology,Online,West,Fail
+28,Female,14,1,Computer Science,Public,South,Pass
+27,Male,9,9,Business,Online,West,Pass
+28,Male,11,5,Physics,Private,Central,Pass
+20,Male,19,9,Computer Science,Public,East,Pass
+30,Male,10,6,Literature,Public,West,Fail
+27,Female,16,9,Physics,Public,Central,Pass
+29,Male,17,9,Biology,Public,West,Pass
+30,Male,21,2,Physics,Private,Central,Fail
+20,Female,25,8,Biology,Online,South,Pass
+25,Male,24,10,Business,Private,East,Pass
+19,Female,12,2,Biology,Private,Central,Pass
+23,Female,5,9,Literature,Online,Central,Fail
+28,Male,10,6,Computer Science,Online,Central,Pass
+18,Female,20,5,Biology,Private,North,Fail
+29,Male,9,4,Business,Public,Central,Fail
+21,Female,23,10,Literature,Public,South,Pass
+21,Female,12,7,Physics,Online,South,Pass
+20,Male,8,10,Computer Science,Online,West,Pass
+21,Female,23,1,Business,Public,South,Fail
+27,Female,10,1,Physics,Online,North,Fail
+29,Male,23,3,Business,Online,East,Fail
+19,Female,25,7,Computer Science,Public,West,Pass
+18,Female,15,5,Physics,Public,West,Pass
+30,Male,25,4,Literature,Public,Central,Pass
+24,Male,12,2,Business,Online,Central,Fail
+23,Female,8,5,Literature,Public,East,Fail
+19,Male,20,10,Computer Science,Online,West,Pass
+20,Male,13,2,Physics,Public,Central,Fail
+24,Male,23,8,Literature,Private,South,Pass
+25,Female,17,5,Physics,Private,East,Fail
+21,Male,18,3,Biology,Online,East,Fail
+26,Male,12,9,Computer Science,Public,North,Pass
+21,Female,11,9,Computer Science,Online,Central,Pass
+30,Female,20,9,Business,Public,South,Pass
+26,Male,18,7,Computer Science,Online,West,Fail
+23,Female,22,7,Business,Online,North,Fail
+30,Female,25,8,Physics,Public,East,Pass
+28,Female,19,9,Biology,Online,West,Pass
+25,Male,16,3,Physics,Public,East,Fail
+26,Male,18,5,Biology,Private,West,Pass
+22,Female,6,6,Computer Science,Public,West,Fail
+27,Female,25,6,Business,Online,East,Fail
+21,Male,16,9,Business,Online,East,Pass
+25,Female,18,5,Literature,Private,West,Pass
+29,Male,18,9,Physics,Online,North,Pass
+27,Male,13,6,Computer Science,Online,West,Fail
+26,Male,19,7,Computer Science,Public,Central,Pass
+26,Female,21,5,Physics,Online,East,Fail
+20,Female,14,6,Physics,Public,South,Fail
+24,Male,7,10,Literature,Public,Central,Pass
+27,Male,22,5,Computer Science,Online,South,Fail
+20,Female,6,2,Physics,Public,East,Fail
+28,Male,9,7,Physics,Online,East,Pass
+18,Female,17,1,Physics,Online,Central,Fail
+28,Male,10,4,Computer Science,Private,South,Fail
+28,Female,24,5,Biology,Online,East,Fail
+30,Male,21,10,Biology,Public,Central,Pass
+20,Male,14,1,Biology,Online,South,Fail
+30,Female,19,10,Business,Public,Central,Pass
+28,Female,16,5,Literature,Private,Central,Pass
+27,Female,21,4,Physics,Private,West,Pass
+24,Male,19,2,Physics,Private,West,Pass
+30,Female,13,3,Computer Science,Public,West,Pass
+20,Female,7,2,Business,Public,East,Fail
+20,Male,10,1,Literature,Public,East,Fail
+19,Male,25,1,Biology,Online,Central,Pass
+30,Male,8,10,Biology,Private,West,Fail
+20,Female,23,3,Computer Science,Private,Central,Pass
+27,Male,7,10,Literature,Private,East,Pass
+23,Female,11,4,Computer Science,Public,East,Pass
+22,Male,15,2,Physics,Public,East,Pass
+28,Female,16,7,Literature,Private,East,Pass
+28,Female,12,8,Physics,Online,West,Pass
+24,Male,17,8,Biology,Private,West,Pass
+24,Female,21,3,Physics,Private,Central,Pass
+20,Male,18,5,Biology,Online,West,Fail
+27,Female,14,3,Literature,Public,West,Fail
+29,Female,17,10,Biology,Private,East,Pass
+26,Female,11,3,Biology,Public,South,Fail
+18,Male,22,1,Literature,Public,Central,Fail
+19,Female,6,10,Physics,Online,West,Pass
+29,Female,20,10,Business,Online,Central,Pass
+19,Female,17,2,Computer Science,Public,Central,Fail
+25,Male,12,2,Literature,Public,North,Pass
+19,Male,20,9,Literature,Online,East,Fail
+21,Female,12,6,Biology,Private,South,Pass
+26,Male,16,6,Literature,Online,North,Fail
+19,Female,24,8,Physics,Online,Central,Pass
+21,Female,17,6,Business,Public,South,Pass
+23,Male,22,4,Computer Science,Private,East,Pass
+24,Male,8,6,Computer Science,Public,West,Fail
+30,Male,5,8,Computer Science,Private,Central,Pass
+24,Male,17,8,Biology,Public,West,Pass
+21,Male,21,4,Literature,Online,South,Fail
+23,Male,6,4,Biology,Online,East,Fail
+24,Female,8,7,Biology,Private,North,Pass
+30,Female,7,7,Literature,Private,North,Pass
+20,Male,20,8,Computer Science,Private,East,Pass
+22,Female,13,9,Biology,Public,East,Pass
+28,Male,14,10,Biology,Private,East,Pass
+24,Male,6,7,Physics,Private,East,Pass
+19,Female,5,1,Biology,Public,North,Fail
+25,Male,6,6,Computer Science,Public,East,Fail
+18,Female,20,8,Biology,Private,North,Pass
+18,Female,23,3,Computer Science,Online,East,Pass
+23,Male,7,10,Biology,Online,West,Pass
+30,Male,10,2,Literature,Public,Central,Pass
+21,Male,7,4,Computer Science,Public,North,Fail
+20,Female,8,10,Physics,Private,East,Pass
+27,Male,21,3,Business,Public,Central,Pass
+18,Male,7,3,Literature,Online,North,Fail
+26,Male,13,7,Physics,Private,Central,Pass
+30,Male,11,1,Literature,Public,South,Fail
+30,Male,14,9,Literature,Private,Central,Pass
+27,Male,20,8,Computer Science,Public,West,Pass
+24,Male,11,5,Biology,Online,Central,Fail
+26,Female,20,9,Biology,Public,East,Pass
+27,Female,19,7,Computer Science,Private,Central,Pass
+20,Female,6,3,Computer Science,Online,North,Fail
+22,Male,15,3,Computer Science,Online,Central,Fail
+23,Female,21,5,Literature,Public,West,Pass
+18,Female,12,4,Biology,Private,North,Pass
+24,Female,11,7,Biology,Private,South,Pass
+18,Female,10,10,Computer Science,Online,Central,Fail
+22,Male,13,8,Biology,Online,West,Pass
+29,Female,18,4,Computer Science,Online,West,Fail
+25,Female,12,6,Literature,Online,East,Fail
+29,Male,12,1,Computer Science,Private,North,Fail
+20,Male,18,2,Business,Public,North,Pass
+28,Female,19,4,Biology,Online,South,Pass
+26,Male,19,10,Literature,Public,East,Pass
+22,Male,19,6,Business,Private,West,Pass
+24,Male,11,1,Literature,Online,South,Fail
+27,Male,12,6,Computer Science,Public,Central,Pass
+28,Male,5,3,Business,Private,West,Pass
+30,Female,24,5,Business,Private,East,Pass
+18,Male,8,2,Business,Public,South,Fail
+25,Male,21,1,Literature,Private,Central,Pass
+23,Female,22,10,Literature,Private,West,Pass
+18,Female,21,6,Computer Science,Public,West,Pass
+28,Male,7,6,Computer Science,Online,Central,Fail
+18,Male,20,6,Physics,Online,North,Fail
+30,Female,22,6,Biology,Public,West,Pass
+28,Female,8,8,Computer Science,Private,North,Pass
+27,Female,13,2,Literature,Private,West,Fail
+19,Female,21,5,Biology,Private,West,Fail
+23,Male,7,6,Literature,Public,West,Fail
+23,Male,13,8,Biology,Public,South,Pass
+26,Male,18,4,Literature,Online,North,Pass
+28,Female,23,5,Computer Science,Public,Central,Pass
+20,Female,22,6,Business,Online,Central,Pass
+22,Female,13,9,Computer Science,Private,East,Pass
+19,Male,5,7,Computer Science,Online,Central,Fail
+20,Female,12,8,Biology,Private,North,Pass
+21,Male,17,3,Biology,Public,East,Fail
+22,Female,12,9,Business,Public,East,Pass
+26,Female,5,6,Physics,Private,South,Fail
+24,Male,18,8,Computer Science,Public,Central,Pass
+26,Male,19,2,Physics,Public,West,Fail
+27,Male,12,4,Business,Online,North,Fail
+24,Male,20,2,Business,Private,South,Pass
+25,Male,25,9,Computer Science,Online,Central,Pass
+24,Male,24,2,Biology,Public,North,Pass
+27,Male,12,5,Literature,Private,East,Pass
+18,Male,25,7,Business,Private,Central,Pass
+28,Female,11,7,Physics,Online,South,Fail
+24,Female,17,8,Physics,Private,North,Pass
+25,Male,22,7,Computer Science,Online,East,Pass
+25,Male,10,10,Computer Science,Public,South,Fail
+29,Female,17,3,Biology,Private,West,Pass
+19,Male,22,6,Business,Private,Central,Pass
+19,Male,9,7,Literature,Online,Central,Fail
+25,Female,21,9,Physics,Private,South,Pass
+25,Male,21,2,Computer Science,Public,East,Fail
+24,Female,5,8,Literature,Public,West,Pass
+26,Male,13,2,Biology,Public,Central,Fail
+22,Male,19,2,Physics,Private,North,Pass
+27,Male,22,3,Physics,Private,Central,Pass
+25,Male,24,7,Business,Online,East,Pass
+19,Male,9,4,Business,Private,Central,Pass
+21,Male,21,10,Business,Online,South,Pass
+25,Female,8,3,Business,Private,West,Pass
+27,Female,16,9,Biology,Public,Central,Pass
+21,Male,11,4,Biology,Online,Central,Pass
+22,Female,10,4,Literature,Online,East,Fail
+20,Male,8,6,Literature,Private,Central,Fail
+20,Female,20,8,Computer Science,Public,North,Pass
+18,Male,19,10,Physics,Online,West,Pass
+18,Female,12,3,Physics,Private,North,Pass
+24,Male,10,10,Physics,Public,Central,Pass
+18,Male,13,1,Computer Science,Public,South,Pass
+20,Male,13,7,Biology,Private,South,Pass
+22,Female,21,10,Physics,Public,East,Pass
+26,Female,13,10,Physics,Online,South,Pass
+30,Female,25,3,Biology,Online,East,Pass
+27,Female,23,8,Literature,Private,South,Pass
+22,Male,25,5,Physics,Online,South,Fail
+22,Female,7,1,Literature,Public,West,Fail
+26,Male,14,3,Biology,Online,West,Fail
+26,Female,12,2,Physics,Public,West,Fail
+19,Male,22,10,Biology,Public,North,Pass
+28,Female,12,8,Business,Public,North,Pass
+27,Female,14,1,Physics,Online,South,Pass
+23,Male,24,7,Biology,Public,West,Pass
+22,Female,5,1,Biology,Private,East,Pass
+20,Female,9,6,Literature,Online,North,Fail
+28,Male,10,4,Biology,Online,North,Fail
+24,Male,10,2,Physics,Online,South,Fail
+26,Male,5,10,Literature,Online,West,Fail
+21,Female,7,8,Biology,Private,South,Pass
+27,Male,23,4,Physics,Private,West,Pass
+25,Female,18,10,Computer Science,Online,Central,Fail
+27,Male,21,8,Literature,Online,East,Pass
+21,Female,13,10,Biology,Public,North,Pass
+27,Male,5,4,Computer Science,Private,Central,Fail
+28,Male,21,5,Literature,Online,East,Fail
+28,Male,7,3,Literature,Online,East,Fail
+24,Male,16,7,Physics,Online,North,Fail
+27,Male,7,8,Business,Private,East,Fail
+26,Male,14,2,Computer Science,Public,North,Fail
+23,Male,13,3,Business,Online,Central,Fail
+22,Male,5,5,Business,Private,Central,Pass
+30,Female,20,1,Physics,Online,Central,Pass
+27,Female,8,2,Biology,Private,North,Pass
+29,Male,19,9,Physics,Online,West,Fail
+24,Female,16,5,Biology,Private,Central,Pass
+18,Female,18,1,Literature,Public,West,Pass
+24,Female,5,3,Biology,Public,North,Fail
+25,Male,21,9,Biology,Private,North,Pass
+24,Female,18,8,Computer Science,Online,West,Fail
+24,Female,6,9,Literature,Online,South,Fail
+29,Male,21,4,Business,Public,West,Fail
+23,Female,23,7,Business,Online,East,Pass
+22,Female,22,3,Biology,Online,East,Pass
+27,Female,10,8,Business,Public,South,Fail
+25,Male,21,6,Business,Online,Central,Pass
+27,Female,24,8,Physics,Public,South,Pass
+25,Female,24,6,Computer Science,Public,West,Pass
+30,Female,13,3,Computer Science,Private,North,Pass
+20,Male,23,2,Business,Online,East,Fail
+19,Female,15,4,Physics,Public,Central,Pass
+21,Male,21,7,Physics,Private,South,Pass
+28,Female,10,7,Business,Online,Central,Pass
+27,Female,6,4,Computer Science,Online,South,Fail
+24,Male,18,4,Biology,Private,South,Pass
+20,Male,14,3,Business,Private,Central,Pass
+23,Male,13,9,Business,Public,South,Pass
+27,Male,17,2,Literature,Online,North,Pass
+24,Male,6,1,Physics,Public,East,Fail
+26,Female,20,5,Business,Online,Central,Pass
+28,Female,19,8,Literature,Private,North,Pass
+18,Male,23,10,Biology,Online,West,Pass
+22,Male,6,9,Physics,Public,North,Fail
+28,Male,25,7,Business,Online,West,Pass
+21,Male,8,10,Physics,Private,North,Fail
+25,Male,12,6,Business,Private,South,Fail
+24,Male,9,4,Computer Science,Online,North,Fail
+30,Male,8,4,Physics,Private,North,Fail
+19,Female,25,1,Business,Private,East,Pass
+28,Male,11,8,Literature,Public,West,Pass
+21,Male,21,9,Biology,Public,East,Pass
+24,Male,7,4,Physics,Online,West,Fail
+28,Male,10,7,Literature,Public,North,Pass
+29,Female,24,4,Biology,Public,North,Fail
+26,Male,16,3,Computer Science,Private,North,Pass
+27,Male,12,6,Business,Private,Central,Pass
+23,Female,9,7,Computer Science,Private,South,Pass
+27,Male,16,6,Literature,Private,West,Pass
+21,Male,20,4,Biology,Public,West,Pass
+30,Female,9,8,Physics,Online,West,Fail
+23,Male,19,4,Physics,Public,Central,Fail
+19,Male,23,5,Computer Science,Private,West,Pass
+30,Male,15,10,Physics,Online,Central,Pass
+27,Female,25,5,Computer Science,Private,South,Fail
+30,Female,14,3,Business,Private,West,Fail
+18,Male,23,7,Business,Public,South,Pass
+27,Female,19,5,Computer Science,Online,West,Fail
+26,Female,13,1,Physics,Online,West,Fail
+28,Male,16,6,Business,Online,South,Pass
+26,Male,12,1,Computer Science,Online,North,Fail
+19,Male,16,7,Business,Public,West,Pass
+22,Female,15,6,Biology,Public,West,Pass
+27,Male,18,5,Business,Private,Central,Fail
+29,Male,21,4,Computer Science,Online,South,Pass
+19,Female,12,6,Physics,Online,East,Fail
+23,Male,14,9,Biology,Private,Central,Pass
+19,Female,10,3,Business,Online,Central,Fail
+22,Male,23,9,Biology,Online,North,Pass
+21,Male,14,7,Business,Public,North,Pass
+23,Female,20,7,Computer Science,Private,Central,Pass
+29,Female,18,9,Physics,Public,Central,Pass
+23,Male,12,9,Literature,Online,North,Pass
+18,Female,21,2,Business,Online,North,Pass
+28,Male,14,2,Biology,Private,North,Fail
+22,Male,24,2,Computer Science,Private,West,Fail
+29,Female,14,9,Business,Online,South,Fail
+25,Male,20,9,Biology,Private,East,Pass
+19,Female,13,4,Literature,Private,North,Pass
+19,Female,15,4,Computer Science,Public,West,Pass
+23,Male,17,8,Physics,Public,Central,Pass
+29,Male,6,9,Literature,Online,East,Pass
+20,Male,16,1,Computer Science,Public,East,Pass
+29,Female,24,1,Business,Online,North,Fail
+23,Female,22,3,Physics,Private,West,Pass
+23,Female,15,6,Computer Science,Public,North,Pass
+28,Male,13,10,Biology,Private,North,Pass
+24,Female,8,5,Literature,Private,Central,Fail
+25,Female,19,5,Biology,Private,North,Pass
+24,Male,16,7,Literature,Public,Central,Pass
+18,Female,9,3,Biology,Public,East,Fail
+29,Female,20,1,Physics,Public,Central,Fail
+20,Female,5,9,Computer Science,Online,East,Pass
+25,Female,12,2,Literature,Online,South,Pass
+20,Female,15,1,Business,Public,South,Fail
+19,Female,6,6,Business,Private,Central,Fail
+25,Female,7,3,Biology,Public,South,Fail
+27,Female,15,7,Computer Science,Public,South,Pass
+24,Female,19,7,Physics,Online,North,Pass
+26,Male,18,10,Literature,Private,West,Pass
+20,Female,11,2,Physics,Private,South,Fail
+25,Female,22,9,Biology,Online,South,Pass
+20,Female,25,10,Literature,Private,West,Pass
+18,Female,16,3,Physics,Public,North,Pass
+18,Male,22,8,Business,Online,North,Pass
+29,Female,18,1,Business,Private,Central,Pass
+27,Female,25,9,Physics,Public,South,Pass
+26,Female,12,10,Business,Public,South,Pass
+19,Female,11,6,Literature,Private,North,Pass
+19,Female,17,8,Literature,Online,West,Fail
+18,Male,10,7,Business,Online,Central,Fail
+27,Male,22,1,Biology,Private,West,Pass
+24,Female,10,1,Literature,Public,North,Fail
+22,Female,6,7,Computer Science,Private,West,Pass
+30,Female,8,4,Physics,Online,Central,Fail
+21,Female,10,5,Business,Public,South,Fail
+30,Male,7,2,Business,Online,East,Fail
+18,Female,8,10,Computer Science,Public,West,Fail
+19,Male,8,2,Biology,Public,East,Fail
+24,Female,9,7,Computer Science,Public,East,Fail
+21,Male,11,6,Literature,Private,West,Fail
+21,Female,19,4,Business,Public,East,Pass
+30,Male,22,4,Computer Science,Public,East,Pass
+30,Male,25,3,Business,Online,East,Fail
+29,Female,6,8,Physics,Private,South,Pass
+23,Male,20,9,Computer Science,Public,Central,Pass
+26,Female,5,5,Business,Public,North,Fail
+20,Male,22,1,Biology,Public,East,Pass
+24,Female,14,2,Physics,Public,Central,Fail
+27,Male,11,3,Computer Science,Public,Central,Pass
+22,Male,7,5,Biology,Online,East,Fail
+22,Male,25,2,Biology,Private,North,Pass
+18,Female,9,7,Literature,Public,West,Pass
+22,Female,15,9,Physics,Online,South,Pass
+28,Male,13,5,Physics,Private,West,Pass
+24,Female,18,2,Physics,Online,East,Fail
+19,Male,18,1,Physics,Private,Central,Pass
+29,Male,19,8,Computer Science,Private,North,Pass
+18,Male,15,6,Literature,Public,East,Fail
+30,Male,12,1,Literature,Private,North,Fail
+19,Male,10,5,Physics,Public,East,Fail
+28,Female,15,7,Biology,Private,East,Pass
+21,Female,7,3,Computer Science,Online,West,Fail
+24,Female,6,3,Literature,Public,North,Fail
+21,Female,25,2,Biology,Public,West,Pass
+28,Female,5,1,Literature,Online,South,Fail
+21,Male,11,8,Business,Public,Central,Pass
+20,Male,20,5,Literature,Online,East,Pass
+30,Female,14,6,Computer Science,Public,East,Pass
+20,Female,23,9,Physics,Private,South,Pass
+19,Female,21,10,Computer Science,Online,East,Pass
+21,Male,17,3,Literature,Online,East,Pass
+30,Male,16,3,Physics,Public,West,Pass
+28,Male,8,9,Physics,Private,North,Pass
+23,Female,5,9,Physics,Online,North,Pass
+26,Female,15,9,Biology,Public,Central,Pass
+30,Male,7,4,Literature,Public,West,Fail
+26,Male,22,8,Physics,Public,West,Pass
+24,Male,6,4,Business,Private,South,Fail
+30,Male,19,5,Literature,Public,North,Fail
+18,Male,24,7,Literature,Online,West,Pass
+24,Female,24,8,Biology,Private,East,Pass
+24,Male,7,6,Biology,Public,North,Pass
+29,Female,14,8,Physics,Public,East,Pass
+30,Male,14,5,Business,Online,North,Fail
+24,Female,11,9,Literature,Public,North,Pass
+24,Female,13,5,Physics,Public,North,Fail
+30,Female,20,8,Computer Science,Online,North,Pass
+22,Female,21,7,Business,Online,West,Fail
+26,Female,18,4,Business,Online,South,Fail
+26,Female,25,10,Literature,Online,West,Pass
+21,Female,12,7,Computer Science,Online,South,Pass
+27,Female,25,6,Physics,Online,East,Fail
+22,Male,10,7,Biology,Public,South,Fail
+30,Female,12,10,Literature,Private,West,Pass
+24,Female,19,1,Biology,Public,West,Pass
+24,Male,14,9,Literature,Online,Central,Fail
+30,Female,23,3,Physics,Online,South,Fail
+23,Male,25,5,Business,Public,South,Fail
+24,Male,23,4,Computer Science,Online,North,Pass
+24,Male,21,2,Biology,Private,South,Pass
+19,Female,6,4,Computer Science,Public,North,Fail
+25,Male,23,1,Physics,Public,South,Fail
+26,Male,22,8,Computer Science,Public,North,Pass
+20,Male,12,3,Literature,Public,North,Pass
+29,Male,6,4,Computer Science,Private,Central,Fail
+24,Male,19,9,Physics,Public,South,Pass
+26,Female,25,3,Physics,Public,Central,Pass
+20,Male,6,8,Physics,Public,East,Pass
+24,Male,14,4,Business,Online,East,Fail
+25,Male,6,6,Literature,Public,West,Fail
+21,Female,6,8,Biology,Online,Central,Pass
+24,Male,14,6,Business,Public,South,Pass
+27,Female,15,5,Literature,Private,North,Pass
+18,Male,12,9,Biology,Private,Central,Pass
+29,Male,14,1,Literature,Private,South,Pass
+28,Female,7,3,Biology,Online,North,Fail
+18,Male,17,3,Computer Science,Private,North,Fail
+27,Male,6,8,Computer Science,Online,South,Pass
+23,Male,25,2,Physics,Public,East,Pass
+21,Female,11,9,Physics,Public,South,Pass
+22,Female,16,1,Biology,Online,West,Fail
+22,Female,10,6,Computer Science,Online,West,Fail
+21,Male,13,3,Literature,Public,West,Pass
+25,Male,18,7,Literature,Online,East,Pass
+27,Male,6,10,Computer Science,Public,East,Pass
+23,Male,18,1,Computer Science,Private,West,Pass
+19,Female,15,2,Biology,Public,North,Fail
+27,Female,7,2,Business,Public,East,Fail
+27,Female,5,9,Business,Public,South,Pass
+18,Male,12,4,Literature,Private,South,Fail
+29,Female,21,2,Computer Science,Public,South,Fail
+18,Female,7,1,Biology,Public,North,Pass
+25,Female,24,6,Physics,Online,North,Pass
+23,Male,21,10,Biology,Public,North,Pass
+24,Female,18,2,Physics,Online,West,Fail
+22,Male,11,10,Computer Science,Private,East,Pass
+22,Male,17,8,Physics,Online,Central,Pass
+28,Female,24,3,Biology,Private,East,Pass
+25,Male,17,3,Literature,Online,West,Fail
+29,Male,6,2,Business,Public,South,Pass
+21,Female,17,9,Computer Science,Online,North,Pass
+18,Female,5,3,Literature,Online,Central,Fail
+22,Female,16,6,Literature,Online,South,Pass
+20,Female,15,10,Biology,Public,West,Pass
+29,Male,7,9,Physics,Private,South,Pass
+18,Male,13,10,Computer Science,Public,South,Pass
+25,Male,7,9,Computer Science,Online,West,Pass
+26,Female,20,6,Physics,Private,Central,Pass
+20,Male,17,3,Literature,Public,North,Fail
+25,Male,14,6,Biology,Online,South,Fail
+27,Male,8,10,Computer Science,Public,South,Fail
+20,Male,17,5,Business,Private,Central,Fail
+22,Male,13,9,Computer Science,Online,East,Pass
+29,Female,14,8,Physics,Private,Central,Pass
+19,Female,12,7,Computer Science,Online,North,Pass
+25,Female,13,1,Physics,Private,North,Fail
+27,Male,7,3,Biology,Public,South,Fail
+29,Male,12,7,Literature,Public,Central,Pass
+19,Female,6,4,Computer Science,Public,South,Fail
+29,Male,18,9,Computer Science,Private,North,Pass
+25,Female,24,8,Literature,Public,South,Pass
+28,Male,14,8,Business,Private,South,Pass
+27,Female,7,8,Physics,Private,East,Fail
+21,Male,6,6,Computer Science,Private,East,Fail
+27,Female,15,9,Biology,Public,Central,Pass
+23,Female,8,2,Business,Online,South,Fail
+18,Male,23,6,Physics,Online,North,Pass
+21,Female,13,8,Literature,Private,North,Pass
+27,Female,25,3,Physics,Public,West,Fail
+28,Male,24,6,Computer Science,Private,South,Pass
+28,Female,21,1,Computer Science,Online,East,Pass
+29,Male,6,2,Computer Science,Private,West,Fail
+20,Male,17,7,Literature,Private,South,Pass
+22,Female,15,7,Biology,Online,North,Pass
+28,Male,19,8,Biology,Public,Central,Pass
+23,Male,18,1,Physics,Private,Central,Pass
+20,Male,16,3,Literature,Online,North,Fail
+24,Male,23,2,Physics,Online,Central,Fail
+25,Male,5,5,Physics,Private,West,Fail
+28,Male,10,8,Biology,Online,South,Pass
+18,Male,21,1,Physics,Online,South,Fail
+27,Female,16,2,Biology,Online,Central,Pass
+24,Female,7,4,Physics,Online,North,Fail
+21,Male,22,8,Physics,Public,Central,Pass
+26,Male,20,5,Biology,Public,Central,Fail
+20,Male,13,3,Physics,Online,East,Pass
+18,Male,10,1,Physics,Online,East,Fail
+26,Female,25,2,Literature,Public,South,Pass
+21,Male,6,8,Literature,Public,West,Fail
+30,Male,18,5,Business,Public,Central,Fail
+20,Female,9,10,Business,Private,East,Pass
+25,Male,18,7,Physics,Private,South,Pass
+21,Male,18,3,Computer Science,Online,West,Pass
+23,Male,14,4,Business,Public,North,Pass
+25,Male,11,4,Physics,Private,Central,Pass
+28,Female,7,10,Computer Science,Online,West,Fail
+27,Male,6,10,Biology,Online,Central,Pass
+23,Male,22,10,Physics,Online,South,Pass
+30,Female,10,10,Business,Online,North,Fail
+28,Male,10,10,Physics,Public,North,Pass
+21,Male,18,9,Literature,Private,East,Pass
+28,Male,20,3,Literature,Private,South,Pass
+22,Male,25,7,Literature,Online,Central,Pass
+20,Female,23,6,Biology,Online,East,Fail
+23,Male,16,7,Physics,Private,Central,Pass
+30,Male,11,8,Biology,Public,North,Pass
+26,Female,22,4,Literature,Public,North,Pass
+28,Male,11,8,Business,Private,Central,Pass
+18,Female,18,6,Business,Private,North,Pass
+23,Male,12,8,Computer Science,Public,North,Fail
+29,Male,22,10,Computer Science,Public,Central,Pass
+30,Male,23,2,Biology,Public,South,Pass
+23,Female,25,5,Biology,Public,South,Pass
+26,Male,5,6,Biology,Private,South,Fail
+28,Female,13,3,Business,Private,Central,Pass
+29,Female,25,1,Literature,Private,Central,Fail
+18,Male,13,6,Literature,Private,West,Pass
+19,Female,6,5,Literature,Private,West,Fail
+29,Female,7,4,Business,Online,Central,Fail
+20,Male,24,5,Computer Science,Public,East,Pass
+30,Male,23,2,Business,Private,North,Fail
+25,Male,10,4,Computer Science,Online,East,Fail
+18,Female,14,3,Physics,Public,West,Pass
+19,Male,23,3,Business,Public,North,Fail
+25,Female,22,8,Physics,Private,North,Pass
+19,Male,14,3,Business,Private,East,Pass
+30,Female,6,7,Physics,Online,Central,Fail
+22,Female,25,7,Biology,Public,South,Pass
+19,Female,10,6,Biology,Private,South,Pass
+25,Male,11,3,Computer Science,Public,West,Fail
+20,Male,12,3,Literature,Online,East,Fail
+21,Male,7,1,Physics,Private,Central,Fail
+18,Female,11,1,Biology,Private,South,Fail
+24,Female,15,4,Literature,Public,West,Pass
+27,Male,16,10,Computer Science,Private,North,Pass
+28,Male,14,7,Business,Online,Central,Fail
+23,Female,19,2,Computer Science,Public,Central,Fail
+29,Male,8,8,Physics,Public,South,Fail
+19,Female,21,4,Computer Science,Online,West,Fail
+22,Male,18,5,Literature,Online,South,Fail
+24,Female,22,7,Biology,Public,West,Pass
+30,Male,24,8,Biology,Online,North,Pass
+22,Female,12,1,Business,Public,East,Fail
+21,Female,19,8,Physics,Private,North,Pass
+25,Female,11,3,Literature,Private,South,Pass
+27,Male,19,8,Business,Private,East,Pass
+26,Male,6,9,Literature,Public,South,Fail
+19,Female,7,7,Biology,Private,East,Pass
+19,Male,23,7,Physics,Online,South,Pass
+30,Female,25,4,Literature,Online,North,Pass
+27,Female,14,4,Computer Science,Public,North,Fail
+23,Female,11,6,Literature,Online,West,Fail
+28,Male,7,6,Literature,Public,East,Fail
+18,Female,13,9,Physics,Private,North,Pass
+19,Female,15,7,Computer Science,Public,East,Pass
+21,Male,6,6,Biology,Public,North,Fail
+24,Female,13,6,Computer Science,Public,Central,Pass
+30,Female,22,4,Biology,Private,North,Pass
+30,Female,10,4,Computer Science,Private,East,Fail
+20,Male,21,5,Biology,Private,East,Pass
+26,Female,25,7,Physics,Online,West,Fail
+21,Male,18,1,Literature,Private,West,Pass
+24,Female,17,8,Physics,Online,South,Pass
+19,Male,7,6,Literature,Online,Central,Fail
+23,Male,8,1,Computer Science,Online,North,Fail
+26,Male,22,9,Biology,Public,South,Pass
+29,Male,25,3,Literature,Public,West,Pass
+29,Female,7,2,Literature,Public,West,Fail
+18,Female,14,2,Computer Science,Private,Central,Pass
+23,Male,10,7,Physics,Public,East,Fail
+25,Male,10,5,Biology,Online,Central,Fail
+22,Female,23,3,Business,Private,South,Pass
+19,Female,14,9,Physics,Private,East,Pass
+21,Female,6,6,Physics,Online,Central,Pass
+20,Female,9,3,Physics,Private,East,Fail
+25,Male,12,6,Computer Science,Online,West,Fail
+19,Male,23,9,Physics,Private,West,Pass
+19,Male,15,4,Physics,Private,North,Pass
+23,Female,14,3,Computer Science,Private,South,Fail
+23,Female,8,2,Computer Science,Public,South,Fail
+26,Male,5,2,Biology,Private,East,Pass
+21,Male,25,9,Computer Science,Private,West,Pass
+29,Female,5,4,Business,Online,Central,Fail
+29,Female,9,5,Business,Online,North,Fail
+26,Male,6,4,Business,Online,Central,Fail
+21,Female,13,6,Physics,Private,West,Pass
+26,Female,9,8,Computer Science,Online,Central,Pass
+18,Male,18,4,Computer Science,Private,South,Pass
+23,Female,14,6,Biology,Public,West,Fail
+19,Female,6,1,Physics,Online,South,Fail
+30,Female,17,9,Literature,Private,East,Pass
+30,Male,22,8,Computer Science,Private,North,Pass
+29,Male,10,2,Literature,Public,South,Fail
+28,Male,16,1,Biology,Private,East,Pass
+19,Female,17,6,Physics,Online,South,Pass
+20,Male,8,7,Biology,Private,West,Pass
+26,Male,7,7,Literature,Online,South,Fail
+18,Female,17,8,Literature,Public,Central,Pass
+19,Male,19,7,Computer Science,Public,South,Pass
+28,Female,25,6,Physics,Private,West,Pass
+29,Male,24,9,Biology,Public,East,Pass
+20,Male,7,2,Biology,Public,East,Fail
+29,Female,8,3,Business,Private,North,Fail
+23,Female,15,8,Physics,Online,West,Pass
+27,Female,17,6,Business,Online,West,Fail
+30,Female,7,10,Physics,Online,Central,Fail
+26,Male,9,9,Biology,Public,North,Fail
+20,Male,5,7,Biology,Private,Central,Pass
+22,Female,15,6,Biology,Online,West,Pass
+19,Male,17,8,Physics,Online,Central,Fail
+30,Male,10,6,Literature,Online,South,Fail
+28,Male,15,3,Biology,Public,South,Pass
+18,Female,21,8,Computer Science,Private,West,Pass
+22,Male,17,3,Literature,Online,North,Pass
+27,Female,25,4,Business,Private,West,Pass
+23,Female,12,1,Biology,Online,South,Fail
+22,Male,24,9,Business,Private,Central,Pass
+21,Female,8,1,Physics,Online,East,Fail
+20,Female,8,9,Literature,Online,West,Pass
+28,Female,13,7,Physics,Online,South,Pass
+19,Male,21,8,Literature,Private,South,Pass
+29,Male,18,5,Physics,Private,North,Pass
+30,Female,20,2,Literature,Private,North,Pass
+19,Female,8,7,Physics,Private,Central,Fail
+25,Male,13,6,Literature,Public,West,Pass
+26,Male,12,10,Literature,Private,South,Pass
+24,Female,16,7,Literature,Private,South,Pass
+27,Male,17,10,Physics,Private,South,Pass
+21,Female,17,8,Physics,Public,South,Pass
+18,Male,9,5,Computer Science,Online,East,Fail
+24,Female,20,1,Physics,Online,North,Pass
+26,Female,13,3,Literature,Private,West,Pass
+30,Male,11,5,Physics,Private,East,Pass
+26,Male,6,10,Computer Science,Online,West,Pass
+27,Female,9,7,Literature,Online,East,Pass
+20,Male,13,2,Business,Private,North,Pass
+22,Female,12,10,Biology,Private,West,Pass
+24,Male,17,1,Physics,Public,West,Pass
+25,Female,23,2,Computer Science,Private,East,Pass
+26,Female,19,2,Biology,Private,South,Fail
+27,Male,20,3,Physics,Public,East,Fail
+20,Male,25,6,Physics,Public,West,Pass
+18,Female,19,3,Business,Private,Central,Fail
+30,Female,17,9,Literature,Private,South,Pass
+29,Male,9,2,Physics,Online,North,Fail
+21,Female,13,9,Physics,Private,East,Pass
+18,Male,10,5,Computer Science,Public,Central,Fail
+23,Male,14,1,Physics,Online,West,Fail
+30,Male,18,6,Biology,Online,East,Fail
+26,Female,7,3,Literature,Private,West,Fail
+24,Female,5,10,Literature,Online,South,Fail
+24,Male,7,1,Computer Science,Public,East,Fail
+23,Female,20,5,Literature,Public,South,Fail
+24,Female,18,8,Literature,Public,South,Pass
+18,Female,24,6,Business,Public,East,Pass
+20,Male,19,2,Physics,Private,West,Fail
+28,Male,8,2,Physics,Private,South,Pass
+21,Male,25,7,Biology,Public,West,Pass
+27,Female,23,3,Business,Online,Central,Fail
+19,Male,19,3,Biology,Private,South,Pass
+27,Female,22,3,Literature,Public,North,Pass
+26,Female,5,3,Biology,Public,South,Fail
+22,Female,21,7,Biology,Public,West,Pass
+25,Female,20,1,Biology,Public,South,Fail
+19,Female,10,10,Computer Science,Private,West,Pass
+28,Male,6,4,Business,Public,West,Fail
+26,Female,8,6,Physics,Private,East,Pass
+19,Female,8,5,Literature,Public,North,Fail
+23,Female,25,9,Physics,Online,West,Pass
+22,Female,12,5,Computer Science,Private,East,Fail
+24,Female,8,2,Computer Science,Public,Central,Fail
+29,Male,15,2,Business,Private,East,Fail
+23,Female,24,3,Literature,Private,North,Fail
+30,Female,10,5,Business,Public,South,Fail
+25,Female,22,4,Computer Science,Public,West,Fail
+26,Male,19,7,Literature,Public,South,Fail
+29,Female,21,1,Computer Science,Public,Central,Fail
+29,Female,19,6,Computer Science,Online,North,Pass
+28,Male,11,4,Computer Science,Private,North,Pass
+19,Female,21,4,Computer Science,Private,South,Pass
+27,Male,15,9,Physics,Private,Central,Pass
+28,Female,5,8,Biology,Public,West,Fail
+30,Male,6,1,Biology,Online,North,Fail
+20,Female,13,4,Computer Science,Private,East,Fail
+25,Female,7,2,Literature,Public,North,Fail
+23,Male,20,2,Biology,Private,East,Pass
+18,Male,24,6,Business,Online,West,Pass
+28,Female,19,10,Computer Science,Private,Central,Pass
+24,Female,12,3,Physics,Online,South,Pass
+19,Female,25,8,Computer Science,Public,Central,Pass
+30,Female,17,10,Physics,Private,East,Pass
+21,Female,14,10,Physics,Public,North,Pass
+30,Male,8,10,Computer Science,Private,Central,Pass
+21,Female,17,5,Biology,Online,Central,Pass
+28,Male,24,6,Literature,Public,West,Fail
+24,Male,25,5,Computer Science,Public,West,Pass
+18,Male,20,6,Literature,Online,Central,Fail
+25,Male,21,5,Literature,Online,Central,Fail
+22,Female,8,1,Literature,Public,West,Fail
+18,Female,10,5,Computer Science,Public,West,Fail
+26,Female,11,6,Computer Science,Public,North,Fail
